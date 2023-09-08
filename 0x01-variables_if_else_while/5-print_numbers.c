@@ -1,3 +1,7 @@
+#include <stdlib.h>
+#include <time.h>
+#include <stdio.h>
+
 #define NUMBER 0
 #define LIMIT 10
 
